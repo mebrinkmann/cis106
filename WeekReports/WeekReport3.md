@@ -1,8 +1,8 @@
-'''
+---
 name: Meghan Brinkmann
 semester: Spring 2023
 course: CIS-106-ME1
-'''
+---
 
 # Week Report 3
 
@@ -56,14 +56,14 @@ Creating virtual versions os something.
 3. Allows programs coded for one type of hardware or OS to work on another that it's not designed to work on
 
 **What is a hypervisor?**
-Software or hardware in charge of creating, managing, and running virtual machines.
+- oftware or hardware in charge of creating, managing, and running virtual machines.
 
 **What is virtualbox?**
-A powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use and an extremely feature rich, high performance product for enterprise customers, as well as the only professional solution that is freely available as Open Source Software.
+- A powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use and an extremely feature rich, high performance product for enterprise customers, as well as the only professional solution that is freely available as Open Source Software.
 
 ### Exploring Desktop Environments
 **What is a desktop environment? (Provide 3 examples)**
-Provides a predetermined look and feel to the GUI and is typically broken up into Desktop Settings, Widgets, Favorites Bar, etc.
+- Provides a predetermined look and feel to the GUI and is typically broken up into Desktop Settings, Widgets, Favorites Bar, etc.
 
 **List 4 common elements of desktop environments**
 1. icons
@@ -72,47 +72,49 @@ Provides a predetermined look and feel to the GUI and is typically broken up int
 4. folders
 
 **What is Ubuntu’s default desktop environments?**
-GNOME Shell and KDE Plasma
+- GNOME Shell and KDE Plasma
 
 **What are the official flavors of Ubuntu?**
-Xubuntu, Ubuntu MATE, Linux Mint, Lubuntu, Deepin, Elementary OS, Raspberry Pi
+- Xubuntu, Ubuntu MATE, Linux Mint, Lubuntu, Deepin, Elementary OS, Raspberry Pi
 
 
 ### What is a Shell?
 **What is Bash?**
-A program that provides interactive access to the Linux system.
+- A program that provides interactive access to the Linux system.
 
 **How do you access the Linux CLI?**
-Terminal Emulator, Linux Console
+- Terminal Emulator, Linux Console
 
 **What is a console terminal?**
-A device that gives you access to the console of your computer.
+- A device that gives you access to the console of your computer.
 
 **What is a terminal emulator?**
-A program that allows you to access the Linux CLI.
+- A program that allows you to access the Linux CLI.
+  
 **Provide 3 examples of Linux commands**
-1. 'date' 
-2. 'clear'
-3. 'uname'
+1. `date` 
+2. `clear`
+3. `uname`
 
 ### Managing Software
 **Which command is used for updating ubuntu?**
-'sudo apt update'
+- `sudo apt update`
 
 **Which command is used for installing software? Provide an example.**
-'sudo apt install ...'
-ie: 'sudo apt install firefox'
+- `sudo apt install ...`
+- ie: `sudo apt install firefox`
 
 **Which command is used for removing software? Provide an example.**
-'sudo apt remove ...'
-ie: 'sudo apt remove firefox'
+- `sudo apt remove ...`
+- ie: `sudo apt remove firefox`
+
 **Which command is used for searching for software? Provide an example.**
-'apt search "..."'
-ie: 'apt search "web browser"'
+- `apt search "..."`
+- ie: `apt search "web browser"`
 
 **Definition of the following terms:**
-**Package:** archives that contain binaries of software, configuration files, and information about dependencies.
+- ***Package:*** archives that contain binaries of software, configuration files, and information about dependencies.
 
-**Library:** reusable code that can be used by more than one function or program.
+- ***Library:*** reusable code that can be used by more than one function or program.
 
-**Repository:** a large collection of software available for download. 
+- ***Repository:*** a large collection of software available for download. 
