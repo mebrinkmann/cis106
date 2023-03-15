@@ -10,45 +10,45 @@ course: CIS-106-ME1
 
 ### Introduction of Linux
 **What is an operating system?**
-An operating system provides all fundamental software features of a computer, enables you to use the computer's hardware providing you the basic tools that make the computer useful.
+- An operating system provides all fundamental software features of a computer, enables you to use the computer's hardware providing you the basic tools that make the computer useful.
 
 **What is a kernel?**
-An OS kernel is a software component that is responsible for managing low-level features of the computer.
+- An OS kernel is a software component that is responsible for managing low-level features of the computer.
 
 **Aside from a kernel, what other parts make an operating system?**
-Daemons/Shells, Graphical Desktop Environment, Libraries, and Applications.
+- Daemons/Shells, Graphical Desktop Environment, Libraries, and Applications.
 
 **What is a Linux distribution?**
-Any operating system that runs the Linux kernel. ie: Ubuntu, Red Hat, Debian, and many others
+- Any operating system that runs the Linux kernel. ie: Ubuntu, Red Hat, Debian, and many others
 
 **What is Ubuntu?**
-A Linux distribution, freely available with both community and professional support.
+- A Linux distribution, freely available with both community and professional support.
 
 **Define the following terms:**
 ***Open Source***
-The software may be distributed for a fee or free. The source code is distributed with the software.
+- The software may be distributed for a fee or free. The source code is distributed with the software.
 
 ***Closed source***
-The software is not distributed with the source code. The user is restricted from modifying the code.
+- The software is not distributed with the source code. The user is restricted from modifying the code.
 
 ***Freeware***
-The software is free but the source code is not available.
+- The software is free but the source code is not available.
 
 ***Shareware***
-The software is free on a trial basis.
+- The software is free on a trial basis.
 
 ***Free software***
-The software is distributed with the source code and can be free of charge or obtained by a fee.
+- The software is distributed with the source code and can be free of charge or obtained by a fee.
 
 **What are the 4 freedoms defined by the free software foundation?**
-*Freedom 0* - use the software for any purpose
-*Freedom 1* - examine the source code and modify it as you see fit
-*Freedom 2* - redistribute the software
-*Freedom 3* - redistribute your modified software
+- *Freedom 0* - use the software for any purpose
+- *Freedom 1* - examine the source code and modify it as you see fit
+- *Freedom 2* - redistribute the software
+- *Freedom 3* - redistribute your modified software
 
 ### The Basics of Virtualization
 **What is virtualization?**
-Creating virtual versions os something.
+- Creating virtual versions os something.
 
 **List 3 benefits of virtualization**
 1. Allows running multiple OSs on one machine without dual booting
@@ -56,7 +56,7 @@ Creating virtual versions os something.
 3. Allows programs coded for one type of hardware or OS to work on another that it's not designed to work on
 
 **What is a hypervisor?**
-- oftware or hardware in charge of creating, managing, and running virtual machines.
+- Software or hardware in charge of creating, managing, and running virtual machines.
 
 **What is virtualbox?**
 - A powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use and an extremely feature rich, high performance product for enterprise customers, as well as the only professional solution that is freely available as Open Source Software.
